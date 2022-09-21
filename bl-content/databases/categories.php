@@ -1,0 +1,2 @@
+<?php defined('BLUDIT') or die('Bludit CMS.'); ?>
+{"agriculture":{"name":"Agriculture","template":"","description":"","list":["projects\/project-seed-to-seed"]},"education":{"name":"Education","template":"","description":"","list":["projects\/learning-center","story-2","story-1"]}}

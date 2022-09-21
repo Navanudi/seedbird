@@ -1,0 +1,11 @@
+<h2>Where does your donation go?</h2>
+<ul>Education
+<li>To create &amp; sustain a learning centre for underprivileged children to learn foundational literacy &amp; numeracy through experiential learning for free.</li>
+<li>To train teachers in experiential learning.</li>
+<li>To create and sustain an experiential learning school for underprivileged children.</li>
+</ul>
+<ul>Agriculture
+<li>To create &amp; sustain indigenous seed banks &amp; seed libraries to protect and save plant genetic diversity.</li>
+<li>To create an atmosphere for children to learn natural farming in schools from sowing to saving the seed.</li>
+<li>To train farmers to convert to natural farming and sustain it.</li>
+</ul>
